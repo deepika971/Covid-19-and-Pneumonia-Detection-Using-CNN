@@ -19,4 +19,4 @@ kjdsa;ljf
 
 ### Dataset - Pneumonia
 
-The dataset is taken from <a href = "https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia" style="text-decoration:none;" target="_blank"> "Chest X-Ray Images (Pneumonia)" </a> from Kaggle. The dataset is organized into 3 folders (train, test, val) and contains subfolders for each image category (Pneumonia/Normal). There are 5,863 X-Ray images (JPEG) and 2 categories (Pneumonia/Normal).
+The dataset is taken from <a href = "https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia" style="text-decoration:none;" target="_blank"> "Chest X-Ray Images (Pneumonia)" </a> from Kaggle. The dataset is organized into 3 folders (train, test, validation) and contains subfolders for each image category (Pneumonia/Normal). There are 5,863 X-Ray images (JPEG) and 2 categories (Pneumonia/Normal).
